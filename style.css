@@ -1,0 +1,44 @@
+*{
+  padding: 0;
+  margin: 0;
+} 
+
+.up{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+}
+
+.down{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+}
+
+.first{
+  height: 30vh;
+  width: 30vw;
+  background-color: #573F2E;
+}
+.second{
+  height: 30vh;
+  width: 70vw;
+  background-color: #3E2D21;
+}
+.third{
+  height: 70vh;
+  width: 30vw;
+  background-color: #FAEDED;
+}
+.fouth{
+  height: 70%;
+  width: 70vw;
+  background-color: #6A4021;
+}
+.fifth{
+  height: 30%;
+  width: 70vw;
+  background-color: #3E2D21;
+}
